@@ -11,32 +11,32 @@ import { Shield, Award, Users, TrendingUp, CheckCircle, ArrowRight } from "lucid
 
 const timeline = [
   {
-    year: "2018",
+    year: "2024",
     title: "Company Founded",
     description: "FAUDY was established with a mission to revolutionize digital fraud prevention.",
   },
   {
-    year: "2019",
+    year: "2024",
     title: "First AI Model",
     description: "Launched our first AI-powered fraud detection algorithm with 85% accuracy.",
   },
   {
-    year: "2020",
+    year: "2025",
     title: "Blockchain Integration",
     description: "Integrated blockchain technology for immutable security logs and enhanced transparency.",
   },
   {
-    year: "2021",
+    year: "2025",
     title: "Enterprise Launch",
     description: "Released enterprise solution serving Fortune 500 companies across financial services.",
   },
   {
-    year: "2022",
+    year: "2025",
     title: "Global Expansion",
     description: "Expanded operations to Europe and Asia with offices in London and Singapore.",
   },
   {
-    year: "2023",
+    year: "2025",
     title: "Consumer Platform",
     description: "Launched consumer-facing platform to protect individuals from digital fraud.",
   },
@@ -111,11 +111,11 @@ export default function AboutPage() {
                   <h2 className="text-3xl font-bold mb-4">Our Story</h2>
                   <div className="space-y-4">
                     <p>
-                      FAUDY was founded in 2018 by a team of cybersecurity experts and AI researchers with a shared
+                      FAUDY was founded in 2024 by a team of cybersecurity experts and AI researchers with a shared
                       vision: to make digital fraud prevention accessible, transparent, and effective for everyone.
                     </p>
                     <p>
-                      What began as a research project at MIT has evolved into a comprehensive platform that combines
+                      What began as a research project at MSIT has evolved into a comprehensive platform that combines
                       cutting-edge AI with blockchain technology to detect, prevent, and report digital fraud in
                       real-time.
                     </p>
@@ -225,23 +225,23 @@ export default function AboutPage() {
               <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
                 {[
                   {
-                    name: "Alex Johnson",
-                    role: "CEO & Founder",
+                    name: "Shreyosi Kar",
+                    role: "Team Leader",
                     image: "/placeholder.svg?height=300&width=300",
                   },
                   {
-                    name: "Sarah Chen",
-                    role: "CTO",
+                    name: "Aklesh Jana",
+                    role: "Member",
                     image: "/placeholder.svg?height=300&width=300",
                   },
                   {
-                    name: "Michael Rodriguez",
-                    role: "Head of AI",
+                    name: "Brinda Dasgupta",
+                    role: "Member",
                     image: "/placeholder.svg?height=300&width=300",
                   },
                   {
-                    name: "Priya Patel",
-                    role: "Blockchain Lead",
+                    name: "Arijit Das",
+                    role: "Member",
                     image: "/placeholder.svg?height=300&width=300",
                   },
                 ].map((member, index) => (
