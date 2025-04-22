@@ -6,26 +6,26 @@ import { Card, CardContent } from "@/components/ui/card"
 
 const teamMembers = [
   {
-    name: "Alex Johnson",
-    role: "CEO & Founder",
+    name: "Shreyosi Kar",
+    role: "Team Leader",
     quote: "Protecting digital identities is our mission.",
     image: "/placeholder.svg?height=100&width=100",
   },
   {
-    name: "Sarah Chen",
-    role: "CTO",
+    name: "Aklesh Jana",
+    role: "Member",
     quote: "AI and blockchain are the future of security.",
     image: "/placeholder.svg?height=100&width=100",
   },
   {
-    name: "Michael Rodriguez",
-    role: "Head of AI",
+    name: "Brinda Dasgupta",
+    role: "Member",
     quote: "We're building the smartest fraud detection system.",
     image: "/placeholder.svg?height=100&width=100",
   },
   {
-    name: "Priya Patel",
-    role: "Blockchain Lead",
+    name: "Arijit Das",
+    role: "Member",
     quote: "Transparency and security go hand in hand.",
     image: "/placeholder.svg?height=100&width=100",
   },
